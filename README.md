@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RanjithRj
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning full stack development
-- 💞️ I’m will collaborate once I master my skills
+- 💞️ I will collaborate once I master my skills
 - 📫 Just a ping away!
 
 <!---
